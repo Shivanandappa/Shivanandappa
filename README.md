@@ -2,17 +2,17 @@
 <h3 align="center">A passionate DataScientist</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Shivanandappa/Shivanandappa/blob/main/graph-showing-the-mobility-analytics-cycle-.gif">
 
-- 🔭 I’m currently working on **Open CV**
+- 🔭 I’m currently working on **TensorFlow**
 
-- 🌱 I’m currently learning **Open CV**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Open CV**
+- 🤝 I’m looking for help with **Deep Learning and NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
 
-- 💬 Ask me about **ML,DL,NLP,Computer Vision**
+- 💬 Ask me about **ML,DL,NLP**
 
 - 📫 How to reach me **jayanth.shivanandappa@gmail.com**
 
