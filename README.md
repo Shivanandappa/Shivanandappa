@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayanth Shivanandappa</h1>
-<h3 align="center">A passionate DataScientist</h3>
+<h3 align="center"> DataScientist</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Shivanandappa/Shivanandappa/blob/main/graph-showing-the-mobility-analytics-cycle-.gif">
 
 - 🔭 I’m currently working on **TensorFlow**
