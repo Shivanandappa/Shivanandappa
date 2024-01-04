@@ -2,13 +2,6 @@
 <h3 align="center"> DataScientist</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Shivanandappa/Shivanandappa/blob/main/graph-showing-the-mobility-analytics-cycle-.gif">
 
-- 🔭 I’m currently working on **AWS**
-
-- 🌱 I’m currently learning **AWS**
-
-// - 👯 I’m looking to collaborate on **Data Science Projects**
-
-//- 🤝 I’m looking for help with **Deep Learning and NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
 
