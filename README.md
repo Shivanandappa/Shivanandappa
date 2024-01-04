@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+// - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🤝 I’m looking for help with **Deep Learning and NLP**
+//- 🤝 I’m looking for help with **Deep Learning and NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
 
