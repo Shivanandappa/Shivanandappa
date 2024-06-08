@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
 
-- 💬 Ask me about **ML,DL,NLP**
+##- 💬 Ask me about **ML,DL,NLP**
 
 - 📫 How to reach me **jayanth.shivanandappa@gmail.com**
 
