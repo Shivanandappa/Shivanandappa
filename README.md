@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Shivanandappa/Shivanandappa/blob/main/graph-showing-the-mobility-analytics-cycle-.gif">
 
-# - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
+ - 📝 I regularly write articles on [https://medium.com/@jayanth.shivanandappa](https://medium.com/@jayanth.shivanandappa)
 
 - 💬 Ask me about ** Data & AI **
 
